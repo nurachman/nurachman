@@ -2208,7 +2208,8 @@ body {
 .process-area .icon {
   background-color: transparent;
   float: left;
-  padding: 60px;
+  padding: 20px;
+  height: 200px;
   margin-right: 35px;
 }
 
