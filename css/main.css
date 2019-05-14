@@ -2364,6 +2364,7 @@ body {
   background-size: cover;
   color: #fff;
   margin-bottom: 10px;
+  font-size: 12px;
 }
 
 .footer-area i {
@@ -2375,7 +2376,7 @@ body {
 }
 
 .footer-area i:hover {
-  color: #000;
+  color: #fff;
 }
 
 .footer-area a:hover {
