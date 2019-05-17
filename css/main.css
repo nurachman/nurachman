@@ -2177,7 +2177,7 @@ body {
 }
 
 .offer-left {
-  background: url(../img/oa1.jpg) no-repeat center center;
+  background: url(../img/pg1.png) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2185,7 +2185,7 @@ body {
 }
 
 .offer-right {
-  background: url(../img/oa2.jpg) no-repeat center center;
+  background: url(../img/pg2.png) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
